@@ -14,7 +14,7 @@ matplotlib==2.0.2
 numexpr==2.6.2
 numpy==1.13.0
 pandas==0.20.2
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 python-dateutil==2.6.0
 pytz==2017.2
